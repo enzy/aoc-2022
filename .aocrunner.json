@@ -142,27 +142,27 @@
         "solved": true,
         "result": "11220",
         "attempts": [],
-        "time": 0.112116
+        "time": 0.06458
       },
       "part2": {
         "solved": true,
         "result": "BZPAJELK",
         "attempts": [],
-        "time": 4.286265
+        "time": 2.577937
       }
     },
     {
       "part1": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "121450",
         "attempts": [],
-        "time": null
+        "time": 0.121729
       },
       "part2": {
-        "solved": false,
-        "result": null,
+        "solved": true,
+        "result": "28244037010",
         "attempts": [],
-        "time": null
+        "time": 40.931289
       }
     },
     {
