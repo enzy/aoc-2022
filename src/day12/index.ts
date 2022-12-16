@@ -1,5 +1,5 @@
 import run from "aocrunner";
-import { euclidean } from "./heuristics.js";
+import { euclidean } from "../utils/heuristics.js";
 
 type x = number;
 type y = number;

@@ -1,4 +1,11 @@
 /**
+ * Return difference between two numbers
+ */
+export function d(a: number, b: number) {
+  return Math.abs(a - b);
+}
+
+/**
  * Manhattan distance.
  * @param {number} dx - Difference in x.
  * @param {number} dy - Difference in y.
